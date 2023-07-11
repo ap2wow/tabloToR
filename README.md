@@ -6,7 +6,7 @@ A package that can interpret GEMPACK-style TABLO models in R and solve them
 
 ```R
 install.packages('devtools')
-devtools::install_git('https://github.com/mivanic/tabloToR.git')
+devtools::install_github('https://github.com/mivanic/tabloToR.git')
 ```
 
 # To perform a simulation, you can try the following:
